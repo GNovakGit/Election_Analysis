@@ -68,3 +68,5 @@ with open(file_to_save, "w") as txt_file:
         f"Winning Vote Count: {winning_count:,}\n"
         f"Winning Percentage: {winning_percentage:.1f}%\n"
         f"-------------------------\n")
+    # Save the winning candidate's name to the text file.
+    txt_file.write(winning_candidate_summary)
