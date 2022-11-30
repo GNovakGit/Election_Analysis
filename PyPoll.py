@@ -15,6 +15,15 @@ total_votes = 0
 candidate_options = []
 candidate_votes = {}
 
+# County votes
+county_options = []
+county_votes = {}
+
+# County Analysis
+largest_county_turnout = ""
+county_count = 0
+largest_county_percentage = 0
+
 # Track the winning candidate, vote count, and percentage.
 winning_candidate = ""
 winning_count = 0
@@ -76,3 +85,4 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(winning_candidate_summary)
 
     print(winning_candidate_summary)
+
