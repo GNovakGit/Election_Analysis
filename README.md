@@ -9,18 +9,17 @@
 - Clearly the winner of the election is Diana DeGette wit the most total votes and highest percentage of votes.  
 
 ## Challenges and Difficulties Encountered
--
+- Finding the county that had the highest percentage of votes was created some challenges in the code. 
 
 ## What are two conclusions you can draw about the election?
 - Raymon Anthony Doane recieved the least amount of votes
 - Diana DeGette is the winner of the congessional election. 
 
 ## What can you conclude about each county
-- Arapaho, Denver, Jefferson 
+- Arapaho = 6.7% (24,801)
+- Denver = Denver: 82.8% (306,055)
+- Jefferson = 10.5% (38,855)
+- Therefore, Denver County holds the largest percentage of votes for this particular election
 
-## What are some limitations of this dataset?
--
-## What are some other possible tables and/or graphs that we could create?
--
 ### Resources: Data Source used (election_results.csv) Software (Python3 and Visual Studio Code)
 -
