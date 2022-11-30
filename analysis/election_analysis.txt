@@ -11,3 +11,8 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+-------------------------
+largest: Denver
+largest county turnout: 306,055
+largset county percentage: 82.8%
+-------------------------
