@@ -19,7 +19,8 @@
 - Arapaho, Denver, Jefferson 
 
 ## What are some limitations of this dataset?
-
+-
 ## What are some other possible tables and/or graphs that we could create?
-
+-
 ### Resources: Data Source used (election_results.csv) Software (Python3 and Visual Studio Code)
+-
