@@ -21,5 +21,8 @@
 - Jefferson = 10.5% (38,855)
 - Therefore, Denver County holds the largest percentage of votes for this particular election
 
+## Summary: 
+- This code can be applied to any election. Not just congressional elections. The variables can be swapped out based on analysis needs for any type of election analysis. 
+
 ### Resources: Data Source used (election_results.csv) Software (Python3 and Visual Studio Code)
 -
